@@ -1,0 +1,84 @@
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.csprojAssemblyReference.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.AssemblyInfoInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.AssemblyInfo.cs
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.exe
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.deps.json
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.runtimeconfig.json
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.runtimeconfig.dev.json
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.csproj.CopyComplete
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.genruntimeconfig.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.exe
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.deps.json
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.runtimeconfig.json
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.runtimeconfig.dev.json
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\aplicacion.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.csprojAssemblyReference.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.AssemblyInfoInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.AssemblyInfo.cs
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.csproj.CopyComplete
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\obj\Debug\netcoreapp3.1\aplicacion.genruntimeconfig.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\persistencia.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\aplicacion\bin\Debug\netcoreapp3.1\persistencia.pdb

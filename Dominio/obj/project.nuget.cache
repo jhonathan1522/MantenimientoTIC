@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2CKdkyJG4itv1u++IEy4S0w5M2DdvnZw2gJ2RcNqYl2MzLdf8VURJQefN+7JO5AQxvR5gZ0oBplGBB/uUA7qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jnata\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jnata\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

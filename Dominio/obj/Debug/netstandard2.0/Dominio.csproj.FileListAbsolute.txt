@@ -1,0 +1,18 @@
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

@@ -1,0 +1,12 @@
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\bin\Debug\netstandard2.1\persistencia.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\bin\Debug\netstandard2.1\persistencia.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.dll
+C:\Users\jnata\Desktop\Mision Tic 2022\2. MISION TIC\CICLO 3 2022\Semana 2-20220814\Grupos\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
