@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DLTGEZIZz47Oy9IoUT4MvI8ZrLetwVk2wA/1Yga7cGmggNyG9H06ywB/+SKvL9PGSpZ4ds/kRp8R2WNahdcJ3g==",
+  "dgSpecHash": "+sD6cnzicYxIBunMB/yo89LZwkApAVK+e4bwsQkNHSkhCJJrws0Brx0rV/hBjbZsQC0QqIntOcC+zKRAPcPbFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\aplicacion\\aplicacion.csproj",
+  "projectFilePath": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\aplicacion\\aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

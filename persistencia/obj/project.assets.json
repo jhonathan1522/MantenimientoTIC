@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\persistencia\\persistencia.csproj",
+      "projectUniqueName": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\persistencia\\persistencia.csproj",
       "projectName": "persistencia",
-      "projectPath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\persistencia\\persistencia.csproj",
+      "projectPath": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\persistencia\\persistencia.csproj",
       "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\persistencia\\obj\\",
+      "outputPath": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7288,8 +7288,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\Dominio\\Dominio.csproj"
+            "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\Dominio\\Dominio.csproj": {
+              "projectPath": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\Dominio\\Dominio.csproj"
             }
           }
         }

@@ -12,5 +12,6 @@ namespace Dominio
 
         public string Edad { get; set; }
         
+        public int saludar { get; set; }
     }
 }

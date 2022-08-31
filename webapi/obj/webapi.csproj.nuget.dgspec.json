@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\webapi\\webapi.csproj": {}
+    "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\webapi\\webapi.csproj": {
+    "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\webapi\\webapi.csproj",
+        "projectUniqueName": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\webapi\\webapi.csproj",
+        "projectPath": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnata\\Desktop\\Mision Tic 2022\\2. MISION TIC\\CICLO 3 2022\\Semana 2-20220814\\Grupos\\Grupo23\\webapi\\obj\\",
+        "outputPath": "c:\\Users\\jnata\\Desktop\\no lideres\\MantenimientoTIC\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
