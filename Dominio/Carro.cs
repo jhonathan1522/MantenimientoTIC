@@ -14,5 +14,7 @@ namespace Dominio
         public string Modelo { get; set; }
 
         public string Color { get; set; }
+
+        public int valor { get; set; }
     }
 }
